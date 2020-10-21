@@ -1,1 +1,5 @@
-Zmiana07a
+Zmiana07a 
+Zmiana08
+Zmiana10
+Dodano Asystenta Pomocy
+Uproszczenie Interfejsu Graficznego
