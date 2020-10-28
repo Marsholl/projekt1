@@ -1,6 +1,7 @@
 Zmiana07b
 Zmiana09
 Zmiana10a
+Zmiana12wClonie
 Naprawa b³edów - hotFix-001
 oraz
 Dodano Asystenta Pomocy
